@@ -4,7 +4,7 @@
 - 🌱 one step ahead with databases and ORM.
 - 🌱 Hibernate, DBMS, in which query, joins and  normal forms of DBMS
 - 💞️ I’m looking to Switch my existing pharma job to IT sector
-- 📫 How to reach me ... It Firms
+- 📫 How to reach me ... 
 - Linkdin Id :- http://https//www.linkedin.com/in/vilas-more-b402aa110
 
 
